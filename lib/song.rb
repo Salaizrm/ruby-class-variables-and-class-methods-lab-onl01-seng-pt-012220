@@ -1,12 +1,8 @@
 class Song
 
-  def name
-  end
-  
-  def artist
-  end
-  
-  def genre
-  end
-
+ attr_accessor :name :artist :genre
+ 
+ 
+ 
+ 
 end
